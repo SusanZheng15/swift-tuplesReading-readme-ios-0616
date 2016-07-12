@@ -1,4 +1,5 @@
-func downloadImage(atURL url: String) -> (Bool, String) {
+func downloadImage(atURL url: String) -> (Bool, String)
+{
     // TODO: Download image
     // if no error, return true
     // otherwise, get error string and return false
